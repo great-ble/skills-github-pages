@@ -1,4 +1,4 @@
 ---
 title: Welcome to my blog!
-- [ ] Create My homepage
 ---
+- [ ] Create My homepage
